@@ -18,7 +18,7 @@ body{
 }
 .search-title{
     width: 700px;
-    height: 400px;
+    height: 550px;
     background-color: pink;
     margin: 0 auto;
     margin-top: 50px;
@@ -50,6 +50,12 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #97C2DC;
 }
+.search-form span{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #97C2DC;
+}
+
 .search-form .long{
     width: 650px;
     height: 30px;
@@ -83,4 +89,58 @@ body{
 .search-form p:after{
     content: '*';
     color: red;
+}
+.search-form span:after{
+    content: '*';
+    color: red;
+}
+
+.location{
+    /* display: inline-block; */
+    float: left;
+    margin-top: 30px;
+}
+.location label{
+    color: #C5C5C5;
+}
+.buttons{
+    display: inline-block;
+    float: left;
+    margin-top: 30px;
+}
+.buttons .search-button{
+    height: 56px;
+    width: 124px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFE;
+    background-color: #ED752F;
+    box-shadow: 0 5px 2px 1px rgba(237, 117, 47, 0.7) ;
+    border: 0px;
+    border-radius: 5px;
+    float: left;
+}
+.buttons .search-button:hover{
+    background-color: #FD8F54;
+}
+.buttons .clear-button{
+    height: 56px;
+    width: 124px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFE;
+    background-color: #566EA8;
+    box-shadow: 0 5px 2px 1px rgba(86, 110, 168, 0.7) ;
+    border: 0px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 20px;
+}
+.buttons .clear-button:hover{
+    background-color: #5D7DB3;
+}
+.search-form .toblue:focus{
+    outline: 2px solid #3478F6;
 }

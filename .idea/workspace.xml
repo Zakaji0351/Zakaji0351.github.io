@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31ef7b71-cf24-4bba-a3e0-f486ccb7f4a2" name="Changes" comment="" />
+    <list default="true" id="31ef7b71-cf24-4bba-a3e0-f486ccb7f4a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/homework6/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework6/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/github/Zakaji0351.github.io",
+    "last_opened_file_path": "E:/google cloud/python-docs-samples/homework6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,6 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676341696273</updated>
       <workItem from="1676341702990" duration="4320000" />
+      <workItem from="1676522275444" duration="702000" />
+      <workItem from="1676618001668" duration="74000" />
     </task>
     <servers />
   </component>
