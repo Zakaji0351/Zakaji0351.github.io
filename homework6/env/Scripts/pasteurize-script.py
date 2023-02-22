@@ -1,4 +1,4 @@
-#!e:\github\zakaji0351.github.io\homework6\env\scripts\python.exe
+#!"E:\google cloud\python-docs-samples\homework6\env\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.18.3','console_scripts','pasteurize'
 import re
 import sys

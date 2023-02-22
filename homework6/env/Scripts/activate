@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\github\Zakaji0351.github.io\homework6\env"
+VIRTUAL_ENV="E:\google cloud\python-docs-samples\homework6\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
